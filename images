@@ -1,0 +1,26 @@
+SAIF SURGICAL & SCIENTIFIC EQUIPMENT — Images Folder
+=====================================================
+
+Place your image files in this folder with the exact filenames listed below.
+All images are referenced in index.html using these names.
+
+REQUIRED IMAGE FILES:
+---------------------
+logo.png                  — Your business logo (PNG with transparent background)
+hero-medical.jpg          — Homepage hero background (hospital/OT photo, 1920x1080px+)
+category-surgical.jpg     — Surgical Instruments category card (600x400px)
+category-laboratory.jpg   — Laboratory Equipment category card (600x400px)
+category-scientific.jpg   — Scientific Tools category card (600x400px)
+category-educational.jpg  — Educational Equipment category card (600x400px)
+blog-ot-setup.jpg         — Blog post image: OT setup article (800x500px)
+blog-equipment.jpg        — Blog post image: New equipment article (800x500px)
+blog-tips.jpg             — Blog post image: Buying tips article (800x500px)
+
+TIPS:
+-----
+- Use JPG for photos, PNG for logos/graphics
+- Keep file sizes under 500KB each for fast loading
+- Free stock photos: https://unsplash.com or https://pexels.com
+  (search: hospital, laboratory, surgical, medical equipment)
+
+For help: WhatsApp Mr. Aliasgar A. Vohara at +91 9898056315
